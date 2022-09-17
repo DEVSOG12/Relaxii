@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377616991789",
+    "project_id": "relaxii",
+    "storage_bucket": "relaxii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377616991789:android:2a3caa2e3fc32617f55aa4",
+        "android_client_info": {
+          "package_name": "com.devsog12.relax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377616991789-t68jumsnnd64799fh69g7npd03hbe8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaRSG3PknujhOocqKCSpve8NRwN-5Qs9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377616991789-t68jumsnnd64799fh69g7npd03hbe8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
